@@ -1,6 +1,6 @@
 # Hotel Guest Management System / 酒店客户管理系统
 
-Welcome to the Hotel Guest Management System repository for the C# Programming 2 class project.
+Welcome to the Hotel Guest Management System repository for the C# Programming 2 class project made by Huang Wen and I.
 欢迎访问酒店客户管理系统的 C# 编程2课程项目库。
 
 ## Background / 背景
